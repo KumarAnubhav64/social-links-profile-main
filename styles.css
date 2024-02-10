@@ -5,25 +5,32 @@ body{
     background-color:  hsl(0, 0%, 8%);
     font-family: "Inter";
 }
+
 img{
 
    border-radius: 100%;
-   width: 80px; 
+   width: 80px;
+   height: 80px; 
+    object-fit: cover;
    margin-top: 20px;
+
+   
 }
 h1{
     color: white;
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 500;
+    margin-bottom: 10px;
 }
 h2{
     color: hsl(75, 94%, 57%);
     font-size: 14px;
+    margin: 20px 0 30px;
 }
 p{
     color: white;
     font-size: 14px;
-    margin: 40px 0px 30px;
+    margin: 20px 0px 30px;
 
 
 }
@@ -35,7 +42,7 @@ p{
     background-color: hsl(0, 0%, 12%);
     border-radius: 1rem;
     text-align: center;
-    width: 370px;
+    width: 310px;
     position: absolute;
     top: 50%;
     left: 50%;
