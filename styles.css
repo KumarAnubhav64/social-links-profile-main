@@ -24,7 +24,7 @@ h1{
     margin-bottom: 10px;
 }
 h2{
-    color: hsl(92, 83%, 50%);
+    color: hsl(28, 83%, 54%);
     font-size: 14px;
     margin: 20px 0 30px;
 }
@@ -62,7 +62,7 @@ p{
 .social:hover{
     padding: 15px;
     font-weight: 500;
-    background-color: hsl(92, 83%, 50%);
+    background-color: hsl(28, 83%, 54%);
     color: black;
     text-align: center;
     margin: 15px 0;
